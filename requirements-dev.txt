@@ -6,3 +6,6 @@ dagshub
 dvc
 lightgbm
 joblib
+fastapi
+uvicorn
+scripts
