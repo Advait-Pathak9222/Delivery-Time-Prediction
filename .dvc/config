@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://advaits-food-delivery-time-predicition-bucket
